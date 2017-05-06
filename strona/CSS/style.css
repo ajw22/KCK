@@ -30,7 +30,7 @@ body{
 }
 #left ul {
     list-style: none;
-    margin: 10px 0px;
+    margin: 0px 0px;
     padding: 0px;
 }
 #left ul li a, #left ul li a:visited{
@@ -47,4 +47,17 @@ body{
 #left ul li a:hover{
     background-color: #999;
     color: #900;
+}
+#top1{
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	height: 30px;
+	background: linear-gradient(silver, black);
+}
+#bottom1{
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	height: 30px;
+	background: linear-gradient(black, silver);
+	margin-bottom: 10px;
 }
