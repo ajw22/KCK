@@ -11,3 +11,5 @@ Poszczególni członkowie pracują nad swoją gałęzią (branch), a kierownik s
 - przesłanie plików,
 - porównaie rozwiązań,
 - scalenie projektu do gałęzi głównej.
+
+## Wersja wyjściowa ##
