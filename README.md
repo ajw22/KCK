@@ -5,9 +5,9 @@ Grupy studentów przygotowują interfejs aplikacji internetowej przy pomocy jęz
 
 Poszczególni członkowie pracują nad swoją gałęzią (branch), a kierownik scala je po przetestowaniu. W ten sposób studenci poznają technologie internetowe, a jednocześnie uczą się **pracować w zespole.** Harmonogram prac:
 
-    - założenie nowego projektu,
-    - przesłanie plików,
-    - założenie nowej gałęzi,
-    - przesłanie plików,
-    - porównaie rozwiązań,
-    - scalenie projektu do gałęzi głównej.
+- założenie nowego projektu,
+- przesłanie plików,
+- założenie nowej gałęzi,
+- przesłanie plików,
+- porównaie rozwiązań,
+- scalenie projektu do gałęzi głównej.
