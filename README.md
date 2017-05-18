@@ -13,3 +13,10 @@ Poszczególni członkowie pracują nad swoją gałęzią (branch), a kierownik s
 - scalenie projektu do gałęzi głównej.
 
 ## Wersja wyjściowa ##
+![wersja wyjściowa](wer0.jpg)
+## Wersja 1 ##
+![wersja wyjściowa](wer1.jpg)
+## Wersja 2 ##
+![wersja wyjściowa](wer2.jpg)
+## Wersja ostateczna ##
+![wersja wyjściowa](wer3.jpg)
